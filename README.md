@@ -1,11 +1,3 @@
-<!--
- * @Author: 朽木白
- * @Date: 2022-08-03 00:31:39
- * @LastEditors: 1547702880@qq.com
- * @LastEditTime: 2022-08-03 00:43:25
- * @Description:
--->
-
 # fe-article-collects
 
 优秀的前端文章收集，全是亲自看过的文章
