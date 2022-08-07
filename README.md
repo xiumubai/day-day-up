@@ -17,3 +17,5 @@
 ## 微服务
 
 [手把手教你写一个简易的微前端框架](https://github.com/woai3c/Front-end-articles/issues/31)
+
+[万字长文-落地微前端 qiankun 理论与实践指北](https://juejin.cn/post/7069566144750813197#heading-1)
